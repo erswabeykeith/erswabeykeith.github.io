@@ -20,6 +20,6 @@ body {
 	background-position: top left;
 	background-repeat: repeat;
 }
-.img {
-	opacity:0.50;	
+.img src {
+	opacity: 0.50;	
 }

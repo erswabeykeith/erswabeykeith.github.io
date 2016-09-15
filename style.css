@@ -10,6 +10,7 @@
   padding: 30px;
 }
 body {
+	opacity: 0.50
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 25px auto;

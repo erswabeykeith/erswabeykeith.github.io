@@ -10,16 +10,16 @@
   padding: 30px;
 }
 body {
-	opacity: 0.50
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 25px auto;
 	text-align: left;
 	width: 80%;
-	background-color: #4ddbbe; 
+	background-color: #4ddbbe;
+	opacity: 0.50;
 	background-image: url(asanoha-400px.png);
 	background-position: top left;
 	background-repeat: repeat;
-	opacity: 0.50;
+	
 	
 }

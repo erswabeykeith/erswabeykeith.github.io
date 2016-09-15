@@ -16,8 +16,8 @@ body {
 	margin: 25px auto;
 	text-align: left;
 	width: 80%;
-	opacity:0.75;
 	background-image: url(asanoha-400px.png);
 	background-position: top left;
 	background-repeat: repeat;
+	opacity:0.75;
 }

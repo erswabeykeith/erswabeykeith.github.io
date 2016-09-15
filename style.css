@@ -3,6 +3,10 @@
   font-family: Georgia serif;
   font-style: bold;
 }
+.contact-info {
+  text-align: center;
+  font-style: bold;
+}
 .page-description {
   font-family: Georgia, serif;	
   border: 4px solid #4ddbbe;

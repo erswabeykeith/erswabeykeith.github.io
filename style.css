@@ -13,5 +13,9 @@ body {
 	margin: 25px auto;
 	text-align: left;
 	width: 80%;
-	background: #4ddbbe; 
+	background-color: #4ddbbe; 
+	background-image: url;
+	background-position: top left;
+	background-repeat: repeat;
+	
 }

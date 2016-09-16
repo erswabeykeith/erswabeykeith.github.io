@@ -13,6 +13,13 @@
   text-align: left;
   padding: 30px;
 }
+.section {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.job {
+  font-weight: bold;
+}
 body {
 	font-family: Georgia, serif;
 	height: 100%;

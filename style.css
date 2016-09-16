@@ -1,11 +1,11 @@
 .page-title {
   text-align: center;
   font-family: Georgia serif;
-  text-decoration: bold;
+  font-weight: bold;
 }
 .contact-info {
   text-align: center;
-  text-decoration: bold;
+  font-weight: bold;
 }
 .page-description {
   font-family: Georgia, serif;	
